@@ -35,4 +35,5 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n > 5)
 	return (0);
+
 }
